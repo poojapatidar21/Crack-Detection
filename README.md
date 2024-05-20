@@ -22,4 +22,4 @@ The project aims at creating a better speed variation for automated vehicles by 
 
 
 #### **Sample Images:**
-<img src="https://user-images.githubusercontent.com/54617734/121790682-55b5aa00-cbff-11eb-814d-41ad64f1e0ed.png" width="600" height="400" />     <img src="https://user-images.githubusercontent.com/54617734/121790697-75e56900-cbff-11eb-8da7-794fc3ef308e.png" width="400" height="400" />
+<img src="https://user-images.githubusercontent.com/54617734/121790682-55b5aa00-cbff-11eb-814d-41ad64f1e0ed.png" width="600" height="400" /> <img src="https://user-images.githubusercontent.com/54617734/121790697-75e56900-cbff-11eb-8da7-794fc3ef308e.png" width="600" height="400" />
